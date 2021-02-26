@@ -1,5 +1,5 @@
 # Advanced Macroeconomics II
-Lab session for the course *Advanced Macroeconomics II*
+Lab session for the course Advanced Macroeconomics II
 
 ## Notebooks
 ### Real-Business-Cycle
